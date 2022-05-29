@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMRAT_Charts", "AMRAT_Charts\AMRAT_Charts.csproj", "{930FBB98-231B-447B-9DE2-B4594D591AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930FBB98-231B-447B-9DE2-B4594D591AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930FBB98-231B-447B-9DE2-B4594D591AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930FBB98-231B-447B-9DE2-B4594D591AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930FBB98-231B-447B-9DE2-B4594D591AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85E5C3E-F3FB-4881-B939-69DD963BD395}
+	EndGlobalSection
+EndGlobal
